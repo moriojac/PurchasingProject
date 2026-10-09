@@ -12,7 +12,6 @@ The Vendor Performance Dashboard is an Excel-based procurement tool designed to 
 - <b>Excel</b>
 - <b>PivotTables</b>
 - <b>Advanced Formulas</b>
-- <b>VLOOKUPs</b>
 
 
 
