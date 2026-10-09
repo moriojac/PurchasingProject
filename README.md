@@ -37,7 +37,7 @@ The Purchasing Performance Dashboard is an Excel-based procurement tool designed
     <td align="center" valign="top" width="33%">
       <div>
         <img src="PurchasingProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
-        <b>Allocation Engine</b>
+        <b>Vendor + Product Analysis</b>
         <h6 style="text-align: center; min-height: 150px;">
           Custom business logic was developed to automatically evaluate allocation opportunities between sales orders. 
           <br><br>The tool analyzes order quantities, label compatibility, and fulfillment status to identify products that can be reallocated while minimizing warehouse rework and unnecessary relabeling.
