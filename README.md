@@ -39,8 +39,9 @@ The Purchasing Performance Dashboard is an Excel-based procurement tool designed
         <img src="PurchasingProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Vendor + Product Analysis</b>
         <h6 style="text-align: center; min-height: 150px;">
-          Custom business logic was developed to automatically evaluate allocation opportunities between sales orders. 
-          <br><br>The tool analyzes order quantities, label compatibility, and fulfillment status to identify products that can be reallocated while minimizing warehouse rework and unnecessary relabeling.
+          The dashboard analyzes performance from two angles - Vendor and Product.
+          <br><br>Vendor: Tracks each vendor's order volume, lead time, and on-time delivery rate against a 60-day SLA benchmark. These metrics were then standardized into a scoring model that computes comparable ratings across speed and volume. These scores were then used to assess the overall relationship with each vendor.
+          <br><br>Product:
         </h6>
       </div>
     </td>
