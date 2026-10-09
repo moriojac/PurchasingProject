@@ -29,8 +29,8 @@ The Purchasing Performance Dashboard is an Excel-based procurement tool designed
         <b>Data Collection</b>
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
-          Order, sales, and product data from multiple sources were consolidated into a single allocation model. 
-          <br><br> The data was organized and standardized to ensure consistency across product SKUs, quantities, labels, and order status, creating a reliable foundation for the allocation process.
+          Product purchase order data from January 2025 - June 2026 were extracted and recorded in a single Excel Spreadsheet.
+          <br><br> The data includes Product, Quantity, Vendor, ordering, and receiving dates of each PO. Product and Vendor name has been anonymized for confidentiality purposes.
         </h6>
       </div>
     </td>
