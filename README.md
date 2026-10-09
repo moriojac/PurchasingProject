@@ -26,7 +26,7 @@ The Purchasing Performance Dashboard is an Excel-based procurement tool designed
     <td align="center" valign="top" width="33%">
       <div>
         <img src="PurchasingProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
-        <b>Data Integration</b>
+        <b>Data Collection</b>
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
           Order, sales, and product data from multiple sources were consolidated into a single allocation model. 
