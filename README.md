@@ -41,7 +41,7 @@ The Purchasing Performance Dashboard is an Excel-based procurement tool designed
         <h6 style="text-align: center; min-height: 150px;">
           The dashboard analyzes performance from two angles - Vendor and Product.
           <br><br>Vendor: Tracks each vendor's order volume, lead time, and on-time delivery rate. These metrics were then standardized into a scoring model that computes comparable ratings across speed and volume. These scores were then used to assess the overall relationship with each vendor.
-          <br><br>Product:
+          <br><br>Product: Tracks each product's order volume, lead time, and on-time delivery rate. These metrics were then standardized into an assessment model that classifies every product into volume and lead-time tiers using median-based thresholds, making it easy to identify which items move fast and which are consistently delayed.
         </h6>
       </div>
     </td>
