@@ -50,8 +50,7 @@ The Purchasing Performance Dashboard is an Excel-based procurement tool designed
         <img src="PurchasingProject_P3.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Vendor-Product Breakdown</b>
         <h6 style="text-align: center; min-height: 150px;">
-          The processed allocation data is presented through an interactive Excel dashboard that allows users to search for fulfillment opportunities by either taking products from existing orders or giving products to other orders. 
-          <br><br>The dashboard displays the most viable allocation options based on business rules, enabling faster fulfillment decisions, improving inventory utilization, and reducing the manual effort required to evaluate allocation scenarios.
+          A dynamic PivotTable that cross-references the vendor and product analyses, letting users break down vendors by product or products by vendor. It reveals who manufactures what and how volume and lead time vary across each pairing, highlighting the strongest vendor-product relationships and re-sourcing opportunities.
         </h6>
       </div>
     </td>
